@@ -841,7 +841,7 @@ body {
 }
 
 .hbox {
-	display: table;
+	/*display: table;*/
 	width: 100%;
 	height: 100%;
 	border-spacing: 0;
